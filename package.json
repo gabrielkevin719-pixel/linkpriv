@@ -1,0 +1,13 @@
+{
+  "name": "linkpriv",
+  "version": "1.0.0",
+  "description": "LinkPriv - Página de perfil e links",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
+}
